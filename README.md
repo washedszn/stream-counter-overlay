@@ -1,5 +1,5 @@
 # Stream counter overlay
-Keep track of wins and losses though your stream deck 
+Keep track of wins and losses though your stream deck with 1 txt file.
 
 ## Setup
 
